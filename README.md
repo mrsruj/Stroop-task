@@ -1,3 +1,5 @@
+# Stroop_Task
+
 This directory has all the source files for the stroop test.
 Run the "stroopex.py" file contains the main source code, while the "stroopex_lastrun" is the same source code with the latest settiings.
 
