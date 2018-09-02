@@ -1,4 +1,7 @@
 # Stroop_Task
+In psychology, the Stroop effect is a demonstration of interference in the reaction time of a task. This task uses different color-word pairs to help observe this effect.
+
+------------------------------------------------------------------------------------------------------
 
 This directory has all the source files for the stroop test.
 Run the "stroopex.py" file contains the main source code, while the "stroopex_lastrun" is the same source code with the latest settiings.
